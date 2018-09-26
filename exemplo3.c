@@ -18,7 +18,7 @@ int main(){
        // Program exits if the file pointer returns NULL.
        exit(1);
    }
-
+//commit2
    for(n = 1; n < 5; ++n)
    {
       num.n1 = n;
