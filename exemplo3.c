@@ -7,7 +7,7 @@ struct threeNum
 };
 
 int main(){
-
+//commit1
    int n;
    struct threeNum num;
    FILE *fptr;
